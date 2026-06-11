@@ -34,6 +34,34 @@ O aplicativo apresenta informações sobre:
 
 ---
 
+🖼️ Funcionalidades
+
+✔ Navegação entre diferentes telas
+
+✔ Interface intuitiva e organizada
+
+✔ Conteúdo educativo e ilustrado
+
+✔ Informações sobre rios e bacias hidrográficas
+
+✔ Elementos visuais para facilitar o aprendizado
+
+📸 Capturas de Tela
+Tela Inicial
+
+<img width="1145" height="674" alt="inicial multimidia" src="https://github.com/user-attachments/assets/286cd2c4-6f4a-4edb-829c-3dac3a3478c3" />
+
+
+Menu de Navegação
+
+<img width="1140" height="663" alt="menu multimidia" src="https://github.com/user-attachments/assets/5731ba61-b2c0-469f-ae76-68938573055e" />
+
+
+
+
+---
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 * Processing (Java)
@@ -68,7 +96,13 @@ Mergulhando/
 
 ---
 
-## 🚀 Como Executar
+🚀 Como Executar
+Instale o Processing.
+Abra o arquivo principal MergulhandoParana.pde.
+Instale as bibliotecas necessárias (caso solicitado pelo Processing).
+Clique em Executar (▶).
+
+## 🚀 Como Executar(2)
 
 ### Pré-requisitos
 
